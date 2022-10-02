@@ -1,6 +1,4 @@
-package com.wayneyong.javacourse.abstractclasses;
-
-import com.sun.xml.internal.ws.addressing.WsaActionUtil;
+package com.wayneyong.javacourse.designpattern;
 
 import java.util.Scanner;
 
