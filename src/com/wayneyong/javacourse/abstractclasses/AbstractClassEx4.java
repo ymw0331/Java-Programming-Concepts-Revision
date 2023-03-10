@@ -48,7 +48,7 @@ class Rectangle extends Graphic {
     }
 }
 
-public class AbstractClass4 {
+public class AbstractClassEx4 {
 
     //applicable to all subclass of Graphic
     static void drawShape(int x1, int y1, int x2, int y2, Graphic g) {
