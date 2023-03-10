@@ -53,7 +53,7 @@
 </ul>
 
 <li> Other Java language features like </li>
-
+<ul>
 <li> Collections </li>
 
 <li> Generics </li>
@@ -63,5 +63,6 @@
 <li> Streams </li>
 
 <li> Reflection API </li>
+</ul>
 
 </ul>
